@@ -1,7 +1,7 @@
 <template>
     <Navigasi />
     <slot />
-    <Main />
+    <Container />
     <slot />
     <Footer />
 </template>

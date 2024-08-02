@@ -8,10 +8,10 @@
                 dibuat dengan menggunakan 3 bahasa pemrograman web yaitu HyperText Markup Language (HTML), Cascading Style 
                 Sheets (CSS), dan JavaScript.</p>
             <div class="flex gap-[20px]">
-                <ButtonHire />
-                <ButtonProject />
+                <HomeButtonHire />
+                <HomeButtonProject />
             </div>
-            <Sosmed />
+            <HomeSosmed />
         </div>
         <div class="hero">
             <img class="w-[350px] h-auto rounded-[16px] border border-black" src="../assets/img/hero.jpg" alt="me">
