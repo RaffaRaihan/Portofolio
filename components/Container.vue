@@ -23,6 +23,8 @@
                 <i class='w-[35px] h-[35px] mr-[20px] text-[30px] text-purple-600 bx bxl-bootstrap' ></i>
                 <i class='w-[35px] h-[35px] mr-[20px] text-[30px] text-yellow-400 bx bxl-javascript' ></i>
                 <i class='w-[35px] h-[35px] mr-[20px] text-[30px] text-green-400 bx bxl-vuejs' ></i>
+                <i class='w-[35px] h-[35px] mr-[20px] text-[30px] bx bxl-github'></i>
+                <i class='w-[35px] h-[35px] mr-[20px] text-[30px] text-orange-400 bx bxl-git'></i>
             </div>
         </div>
     </div>
