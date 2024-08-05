@@ -6,7 +6,7 @@
             <a class="mx-[20px] text-stone-700 hover:text-purple-400 duration-150" href="about">About</a>
             <a class="mx-[20px] text-stone-700 hover:text-purple-400 duration-150" href="project">Project</a>
             <a class="mx-[20px] text-stone-700 hover:text-purple-400 duration-150" href="#">Blog</a>
-            <a class="mx-[20px] text-stone-700 hover:text-purple-400 duration-150" href="#">Contact</a>
+            <a class="mx-[20px] text-stone-700 hover:text-purple-400 duration-150" href="contact">Contact</a>
         </div>
         <HomeButtonCv />
     </header>

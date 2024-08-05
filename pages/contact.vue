@@ -1,0 +1,4 @@
+<template>
+    <Navigasi />
+    <Footer />
+</template>
